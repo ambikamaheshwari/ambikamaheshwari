@@ -3,8 +3,7 @@
 
 <p align="center">
   <em>
-    I'm <b>Amika Maheshwari</b>.
-    An aspiring <b>Brand Manager,</b>&nbsp;and <b>Product Manager</b>&nbsp; 
+    I'm <b>Ambika Maheshwari</b>.
   <br>
   
 </p>
